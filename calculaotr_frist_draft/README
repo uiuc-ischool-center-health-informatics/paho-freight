@@ -1,0 +1,5 @@
+Used Voila library to render Jupyter Notebook into responsive HTML page
+-run/update all the cells in the notebook
+-run "python -m voila xxxx.ipynb" to render notebook "xxxx" as an HTML page
+-no work was done to parse the inputs or make API calls
+-
