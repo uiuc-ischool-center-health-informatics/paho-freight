@@ -1,3 +1,6 @@
+libraries:
+ipy, ipykernel, ipywidgets, jupyter, voila
+
 widgets referece:
 https://ipywidgets.readthedocs.io/en/7.6.3/examples/Widget%20Styling.html
 
