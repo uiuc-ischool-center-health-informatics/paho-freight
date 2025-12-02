@@ -1,0 +1,34 @@
+﻿Product,Variant,Source,prod weight (g),prod vol ,STORAGE CONDITION,Source in file
+0101,12,India,0.023916667,113.8483333,"Between +2° C and + 8° C, can also be frozen",United States of America
+0102,10,India,0.023916667,113.8483333,"Between +2° C and + 8° C, can also be frozen",United States of America
+0601,01,India,0.017583333,86.4,"Between +2° C and + 8° C, must not be frozen",United States of America
+0601,01,Korea,0.011545455,68.51647727,"Between +2° C and + 8° C, must not be frozen","Korea, Republic of"
+0601,10,Korea,0.027583333,125.6135417,"Between +2° C and + 8° C, must not be frozen","Korea, Republic of"
+0602,01,India,0.017583333,86.4,"Between +2° C and + 8° C, must not be frozen",United States of America
+0602,01,Korea,0.011545455,68.51647727,"Between +2° C and + 8° C, must not be frozen","Korea, Republic of"
+0702,01,Netherlands,0.0084375,21.16049167,"Between +2° C and + 8° C, must not be frozen",Panama
+1101,01,Belgium,0.007764583,31.6,"Between +2° C and + 8° C, must not be frozen",Belgium
+1103,01,United States of America,0.020411111,144.5817001,"Between +2° C and + 8° C, must not be frozen",United States of America
+1301,05,Netherlands,0.034464286,119.3142857,"Between +2° C and + 8° C, must not be frozen",Netherlands
+1404,10,All,,,Should be -20° C or below,
+1404,12,India,0.0295,2730.9555,Should be -20° C or below,India
+1404,12,United States of America,0.041111111,205.7486111,Should be -20° C or below,India
+1404,12,Indonesia,0.019111111,94.56148148,Should be -20° C or below,Indonesia
+1601,01,All,,,"Between +2° C and + 8° C, must not be frozen",
+1601,95,All,,,"Between +2° C and + 8° C, must not be frozen",
+1901,10,France,0.033933333,215.3453333,"Between +2° C and + 8° C, can also be frozen",France
+6001,97,Belgium,0.009766667,50.56,"Between +2° C and + 8° C, must not be frozen",Belgium
+7001,10,All,,,"Between +2° C and + 8° C, must not be frozen",
+7010,10,United States of America,0.02625,98.4,"Between +2° C and + 8° C, must not be frozen",India
+7010,10,India,0.038368056,186.1640625,"Between +2° C and + 8° C, must not be frozen",India
+7010,10,Indonesia,0.022714286,94.71428571,"Between +2° C and + 8° C, must not be frozen",Indonesia
+7120,10,United States of America,0.027916667,98.4,"Between +2° C and + 8° C, must not be frozen",India
+7310,01,All,,,"Between +2° C and + 8° C, must not be frozen",
+7310,12,India,0.054166667,196.8,"Between +2° C and + 8° C, must not be frozen",India
+7405,01,India,0.018967014,93.08203125,"Between +2° C and + 8° C, must not be frozen",India
+7405,10,United States of America,0.027916667,98.4,"Between +2° C and + 8° C, must not be frozen",India
+8101,10,United States of America,0.03375,137.1883333,"Between +2° C and + 8° C, can also be frozen",India
+8201,01,Belgium,0.026041667,134.5885938,"Between +2° C and + 8° C, can also be frozen",Belgium
+8205,01,United States of America,0.043333333,188.1,"Between +2° C and + 8° C, can also be frozen",India
+8205,05,United States of America,0.030208333,137.1883333,"Between +2° C and + 8° C, can also be frozen",India
+8205,10,United States of America,0.03375,137.1883333,"Between +2° C and + 8° C, can also be frozen",India
