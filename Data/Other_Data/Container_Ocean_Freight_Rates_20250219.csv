@@ -1,0 +1,557 @@
+Year,Month,Container Size,Origin,Destination,Rate,Date
+2012,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),590,Jan 2012
+2012,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Jan 2012
+2012,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),590,Feb 2012
+2012,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Feb 2012
+2012,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Mar 2012
+2012,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),850,Mar 2012
+2012,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1760,Mar 2012
+2012,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2180,Mar 2012
+2012,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Apr 2012
+2012,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),910,Apr 2012
+2012,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Apr 2012
+2012,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2000,Apr 2012
+2012,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,May 2012
+2012,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,May 2012
+2012,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,May 2012
+2012,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2000,May 2012
+2012,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Jun 2012
+2012,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Jun 2012
+2012,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Jun 2012
+2012,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2000,Jun 2012
+2012,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Jul 2012
+2012,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Jul 2012
+2012,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,Jul 2012
+2012,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Jul 2012
+2012,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Aug 2012
+2012,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Aug 2012
+2012,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,Aug 2012
+2012,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2200,Aug 2012
+2012,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),620,Sep 2012
+2012,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),790,Sep 2012
+2012,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,Sep 2012
+2012,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Sep 2012
+2012,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Oct 2012
+2012,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Oct 2012
+2012,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,Oct 2012
+2012,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,Oct 2012
+2012,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Nov 2012
+2012,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Nov 2012
+2012,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1450,Nov 2012
+2012,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Nov 2012
+2012,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Dec 2012
+2012,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Dec 2012
+2012,Dec,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1410,Dec 2012
+2012,Dec,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1760,Dec 2012
+2013,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Jan 2013
+2013,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Jan 2013
+2013,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1350,Jan 2013
+2013,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Jan 2013
+2013,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Feb 2013
+2013,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),790,Feb 2013
+2013,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1350,Feb 2013
+2013,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Feb 2013
+2013,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Mar 2013
+2013,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),940,Mar 2013
+2013,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1140,Mar 2013
+2013,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1380,Mar 2013
+2013,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Apr 2013
+2013,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),940,Apr 2013
+2013,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1140,Apr 2013
+2013,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1380,Apr 2013
+2013,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,May 2013
+2013,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),940,May 2013
+2013,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,May 2013
+2013,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1850,May 2013
+2013,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Jun 2013
+2013,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),960,Jun 2013
+2013,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Jun 2013
+2013,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1810,Jun 2013
+2013,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Jul 2013
+2013,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),960,Jul 2013
+2013,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Jul 2013
+2013,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1810,Jul 2013
+2013,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Aug 2013
+2013,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1000,Aug 2013
+2013,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Aug 2013
+2013,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1890,Aug 2013
+2013,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Sep 2013
+2013,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),960,Sep 2013
+2013,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1450,Sep 2013
+2013,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1770,Sep 2013
+2013,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Oct 2013
+2013,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),950,Oct 2013
+2013,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Oct 2013
+2013,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1890,Oct 2013
+2013,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Nov 2013
+2013,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Nov 2013
+2013,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Nov 2013
+2013,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1890,Nov 2013
+2013,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Dec 2013
+2013,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Dec 2013
+2013,Dec,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Dec 2013
+2013,Dec,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1890,Dec 2013
+2014,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),690,Jan 2014
+2014,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),900,Jan 2014
+2014,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Jan 2014
+2014,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Jan 2014
+2014,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Feb 2014
+2014,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),940,Feb 2014
+2014,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Feb 2014
+2014,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Feb 2014
+2014,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Mar 2014
+2014,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),900,Mar 2014
+2014,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Mar 2014
+2014,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Mar 2014
+2014,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Apr 2014
+2014,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),900,Apr 2014
+2014,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Apr 2014
+2014,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Apr 2014
+2014,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,May 2014
+2014,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),870,May 2014
+2014,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,May 2014
+2014,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,May 2014
+2014,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Jun 2014
+2014,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),870,Jun 2014
+2014,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Jun 2014
+2014,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Jun 2014
+2014,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Jul 2014
+2014,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Jul 2014
+2014,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Jul 2014
+2014,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Jul 2014
+2014,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Aug 2014
+2014,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Aug 2014
+2014,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Aug 2014
+2014,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Aug 2014
+2014,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Sep 2014
+2014,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Sep 2014
+2014,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Sep 2014
+2014,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Sep 2014
+2014,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Oct 2014
+2014,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Oct 2014
+2014,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Oct 2014
+2014,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Oct 2014
+2014,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Nov 2014
+2014,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Nov 2014
+2014,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Nov 2014
+2014,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Nov 2014
+2014,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Dec 2014
+2014,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),880,Dec 2014
+2014,Dec,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Dec 2014
+2014,Dec,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Dec 2014
+2015,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Jan 2015
+2015,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),890,Jan 2015
+2015,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Jan 2015
+2015,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Jan 2015
+2015,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Feb 2015
+2015,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),890,Feb 2015
+2015,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1510,Feb 2015
+2015,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1900,Feb 2015
+2015,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Mar 2015
+2015,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Mar 2015
+2015,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Mar 2015
+2015,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,Mar 2015
+2015,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Apr 2015
+2015,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Apr 2015
+2015,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Apr 2015
+2015,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,Apr 2015
+2015,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,May 2015
+2015,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),850,May 2015
+2015,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,May 2015
+2015,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,May 2015
+2015,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Jun 2015
+2015,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Jun 2015
+2015,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Jun 2015
+2015,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,Jun 2015
+2015,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,Jul 2015
+2015,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),850,Jul 2015
+2015,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1640,Jul 2015
+2015,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1950,Jul 2015
+2015,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Aug 2015
+2015,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Aug 2015
+2015,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Aug 2015
+2015,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Aug 2015
+2015,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),600,Sep 2015
+2015,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Sep 2015
+2015,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Sep 2015
+2015,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Sep 2015
+2015,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),610,Oct 2015
+2015,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Oct 2015
+2015,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Oct 2015
+2015,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Oct 2015
+2015,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),600,Nov 2015
+2015,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Nov 2015
+2015,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Nov 2015
+2015,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Nov 2015
+2015,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Dec 2015
+2015,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Dec 2015
+2015,Dec,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1490,Dec 2015
+2015,Dec,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Dec 2015
+2016,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),600,Jan 2016
+2016,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Jan 2016
+2016,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1190,Jan 2016
+2016,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1510,Jan 2016
+2016,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),610,Feb 2016
+2016,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Feb 2016
+2016,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1460,Feb 2016
+2016,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Feb 2016
+2016,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),590,Mar 2016
+2016,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,Mar 2016
+2016,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1160,Mar 2016
+2016,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1460,Mar 2016
+2016,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),590,Apr 2016
+2016,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,Apr 2016
+2016,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Apr 2016
+2016,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1840,Apr 2016
+2016,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),580,May 2016
+2016,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,May 2016
+2016,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1140,May 2016
+2016,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1460,May 2016
+2016,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),580,Jun 2016
+2016,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Jun 2016
+2016,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Jun 2016
+2016,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1840,Jun 2016
+2016,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),580,Jul 2016
+2016,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,Jul 2016
+2016,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1250,Jul 2016
+2016,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1590,Jul 2016
+2016,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),580,Aug 2016
+2016,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Aug 2016
+2016,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),570,Sep 2016
+2016,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Sep 2016
+2016,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1300,Sep 2016
+2016,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1610,Sep 2016
+2016,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),570,Oct 2016
+2016,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Oct 2016
+2016,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1450,Oct 2016
+2016,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1880,Oct 2016
+2016,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),580,Nov 2016
+2016,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Nov 2016
+2016,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1350,Nov 2016
+2016,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1760,Nov 2016
+2016,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),570,Dec 2016
+2016,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Dec 2016
+2017,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),600,Jan 2017
+2017,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Jan 2017
+2017,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1400,Jan 2017
+2017,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1730,Jan 2017
+2017,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),600,Feb 2017
+2017,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Feb 2017
+2017,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Mar 2017
+2017,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Mar 2017
+2017,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1310,Mar 2017
+2017,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1630,Mar 2017
+2017,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),650,Apr 2017
+2017,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Apr 2017
+2017,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),670,May 2017
+2017,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,May 2017
+2017,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1550,May 2017
+2017,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1940,May 2017
+2017,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Jun 2017
+2017,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Jun 2017
+2017,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),620,Jul 2017
+2017,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Jul 2017
+2017,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1380,Jul 2017
+2017,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1720,Jul 2017
+2017,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Aug 2017
+2017,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Aug 2017
+2017,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Sep 2017
+2017,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Sep 2017
+2017,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1460,Sep 2017
+2017,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1820,Sep 2017
+2017,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Oct 2017
+2017,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Oct 2017
+2017,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Nov 2017
+2017,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Nov 2017
+2017,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1350,Nov 2017
+2017,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1700,Nov 2017
+2017,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Dec 2017
+2017,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Dec 2017
+2018,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Jan 2018
+2018,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Jan 2018
+2018,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1410,Jan 2018
+2018,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1790,Jan 2018
+2018,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Feb 2018
+2018,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Feb 2018
+2018,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),630,Mar 2018
+2018,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Mar 2018
+2018,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1300,Mar 2018
+2018,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1590,Mar 2018
+2018,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),620,Apr 2018
+2018,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Apr 2018
+2018,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,May 2018
+2018,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,May 2018
+2018,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1310,May 2018
+2018,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,May 2018
+2018,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),690,Jun 2018
+2018,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Jun 2018
+2018,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Jul 2018
+2018,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Jul 2018
+2018,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1150,Jul 2018
+2018,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1330,Jul 2018
+2018,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Aug 2018
+2018,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Aug 2018
+2018,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),640,Sep 2018
+2018,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),760,Sep 2018
+2018,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1340,Sep 2018
+2018,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Sep 2018
+2018,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Oct 2018
+2018,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Oct 2018
+2018,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Nov 2018
+2018,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Nov 2018
+2018,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1270,Nov 2018
+2018,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1590,Nov 2018
+2018,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Dec 2018
+2018,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Dec 2018
+2019,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,Jan 2019
+2019,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Jan 2019
+2019,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1310,Jan 2019
+2019,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Jan 2019
+2019,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Feb 2019
+2019,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),810,Feb 2019
+2019,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Mar 2019
+2019,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),790,Mar 2019
+2019,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),980,Mar 2019
+2019,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1320,Mar 2019
+2019,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Apr 2019
+2019,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Apr 2019
+2019,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1530,Apr 2019
+2019,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1870,Apr 2019
+2019,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),690,May 2019
+2019,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),790,May 2019
+2019,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1000,May 2019
+2019,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,May 2019
+2019,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),690,Jun 2019
+2019,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Jun 2019
+2019,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1570,Jun 2019
+2019,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1980,Jun 2019
+2019,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),690,Jul 2019
+2019,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),790,Jul 2019
+2019,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Jul 2019
+2019,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1580,Jul 2019
+2019,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Aug 2019
+2019,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Aug 2019
+2019,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1220,Aug 2019
+2019,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Aug 2019
+2019,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),730,Sep 2019
+2019,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),810,Sep 2019
+2019,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1290,Sep 2019
+2019,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Sep 2019
+2019,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Oct 2019
+2019,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Oct 2019
+2019,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Nov 2019
+2019,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Nov 2019
+2019,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1280,Nov 2019
+2019,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1650,Nov 2019
+2019,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Dec 2019
+2019,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Dec 2019
+2020,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Jan 2020
+2020,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Jan 2020
+2020,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Jan 2020
+2020,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1770,Jan 2020
+2020,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Feb 2020
+2020,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Feb 2020
+2020,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Mar 2020
+2020,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Mar 2020
+2020,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Mar 2020
+2020,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1730,Mar 2020
+2020,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Apr 2020
+2020,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Apr 2020
+2020,Apr,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1610,Apr 2020
+2020,Apr,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2030,Apr 2020
+2020,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,May 2020
+2020,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,May 2020
+2020,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1420,May 2020
+2020,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1750,May 2020
+2020,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Jun 2020
+2020,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Jun 2020
+2020,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1810,Jun 2020
+2020,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2220,Jun 2020
+2020,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Jul 2020
+2020,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Jul 2020
+2020,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1380,Jul 2020
+2020,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1770,Jul 2020
+2020,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),720,Aug 2020
+2020,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Aug 2020
+2020,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),740,Sep 2020
+2020,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Sep 2020
+2020,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1420,Sep 2020
+2020,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1810,Sep 2020
+2020,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Oct 2020
+2020,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Oct 2020
+2020,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),750,Nov 2020
+2020,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),850,Nov 2020
+2020,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1340,Nov 2020
+2020,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1790,Nov 2020
+2020,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),770,Dec 2020
+2020,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),860,Dec 2020
+2021,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Jan 2021
+2021,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),930,Jan 2021
+2021,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1360,Jan 2021
+2021,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1830,Jan 2021
+2021,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),780,Feb 2021
+2021,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),880,Feb 2021
+2021,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1670,Feb 2021
+2021,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2080,Feb 2021
+2021,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Mar 2021
+2021,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),800,Mar 2021
+2021,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1420,Mar 2021
+2021,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1870,Mar 2021
+2021,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1380,Apr 2021
+2021,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1540,Apr 2021
+2021,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1250,May 2021
+2021,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1350,May 2021
+2021,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1320,May 2021
+2021,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2060,May 2021
+2021,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1320,Jun 2021
+2021,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1520,Jun 2021
+2021,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1250,Jul 2021
+2021,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1610,Jul 2021
+2021,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1390,Jul 2021
+2021,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2180,Jul 2021
+2021,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1280,Aug 2021
+2021,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1630,Aug 2021
+2021,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1330,Sep 2021
+2021,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1710,Sep 2021
+2021,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,Sep 2021
+2021,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2000,Sep 2021
+2021,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1330,Oct 2021
+2021,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1710,Oct 2021
+2021,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1220,Nov 2021
+2021,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1540,Nov 2021
+2021,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1560,Nov 2021
+2021,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2230,Nov 2021
+2021,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1330,Dec 2021
+2021,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1630,Dec 2021
+2022,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1220,Jan 2022
+2022,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1530,Jan 2022
+2022,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1780,Jan 2022
+2022,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2410,Jan 2022
+2022,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1410,Feb 2022
+2022,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1670,Feb 2022
+2022,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1230,Mar 2022
+2022,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1520,Mar 2022
+2022,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1910,Mar 2022
+2022,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2570,Mar 2022
+2022,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1270,Apr 2022
+2022,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1550,Apr 2022
+2022,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1260,May 2022
+2022,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1560,May 2022
+2022,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1900,May 2022
+2022,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2460,May 2022
+2022,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1270,Jun 2022
+2022,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1570,Jun 2022
+2022,July,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1330,Jul 2022
+2022,July,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1640,Jul 2022
+2022,July,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2090,Jul 2022
+2022,July,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2670,Jul 2022
+2022,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1290,Aug 2022
+2022,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1620,Aug 2022
+2022,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1060,Sep 2022
+2022,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1330,Sep 2022
+2022,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2150,Sep 2022
+2022,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2720,Sep 2022
+2022,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),980,Oct 2022
+2022,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1220,Oct 2022
+2022,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),970,Nov 2022
+2022,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1200,Nov 2022
+2022,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1740,Nov 2022
+2022,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),2300,Nov 2022
+2022,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1010,Dec 2022
+2022,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1260,Dec 2022
+2023,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),980,Jan 2023
+2023,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1220,Jan 2023
+2023,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1520,Jan 2023
+2023,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1920,Jan 2023
+2023,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),970,Feb 2023
+2023,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1230,Feb 2023
+2023,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),980,Mar 2023
+2023,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1200,Mar 2023
+2023,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1350,Mar 2023
+2023,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1670,Mar 2023
+2023,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1000,Apr 2023
+2023,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1240,Apr 2023
+2023,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),930,May 2023
+2023,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1200,May 2023
+2023,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1280,May 2023
+2023,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1510,May 2023
+2023,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),820,Jun 2023
+2023,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1080,Jun 2023
+2023,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1270,Jun 2023
+2023,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1500,Jun 2023
+2023,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),710,Jul 2023
+2023,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),930,Jul 2023
+2023,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1210,Jul 2023
+2023,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1450,Jul 2023
+2023,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),700,Aug 2023
+2023,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),921,Aug 2023
+2023,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1171,Aug 2023
+2023,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1409,Aug 2023
+2023,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),660,Sep 2023
+2023,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),884,Sep 2023
+2023,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1129,Sep 2023
+2023,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1372,Sep 2023
+2023,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),611,Oct 2023
+2023,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),830,Oct 2023
+2023,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1109,Oct 2023
+2023,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1351,Oct 2023
+2023,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),701,Nov 2023
+2023,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),914,Nov 2023
+2023,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1151,Nov 2023
+2023,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1297,Nov 2023
+2023,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),682,Dec 2023
+2023,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),886,Dec 2023
+2023,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1149,Dec 2023
+2023,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1281,Dec 2023
+2024,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),633,Jan 2024
+2024,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),840,Jan 2024
+2024,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1155,Jan 2024
+2024,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1281,Jan 2024
+2024,Feb,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),680,Feb 2024
+2024,Feb,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),832,Feb 2024
+2024,Feb,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1116,Feb 2024
+2024,Feb,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1243,Feb 2024
+2024,Mar,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),616,Mar 2024
+2024,Mar,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),765,Mar 2024
+2024,Mar,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1162,Mar 2024
+2024,Mar,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1268,Mar 2024
+2024,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),544,Apr 2024
+2024,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),737,Apr 2024
+2024,Apr,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1165,Apr 2024
+2024,Apr,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),1263,Apr 2024
+2024,May,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),454,May 2024
+2024,May,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),647,May 2024
+2024,May,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1169,May 2024
+2024,May,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1282,May 2024
+2024,Jun,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),460,Jun 2024
+2024,Jun,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),672,Jun 2024
+2024,Jun,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1164,Jun 2024
+2024,Jun,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1279,Jun 2024
+2024,Jul,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),492,Jul 2024
+2024,Jul,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),736,Jul 2024
+2024,Jul,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1088,Jul 2024
+2024,Jul,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1226,Jul 2024
+2024,Aug,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),551,Aug 2024
+2024,Aug,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),741,Aug 2024
+2024,Aug,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1112,Aug 2024
+2024,Aug,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1298,Aug 2024
+2024,Sep,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),561,Sep 2024
+2024,Sep,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),749,Sep 2024
+2024,Sep,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1013,Sep 2024
+2024,Sep,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1224,Sep 2024
+2024,Oct,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),610,Oct 2024
+2024,Oct,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),812,Oct 2024
+2024,Oct,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),874,Oct 2024
+2024,Oct,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1154,Oct 2024
+2024,Nov,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),589,Nov 2024
+2024,Nov,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),773,Nov 2024
+2024,Nov,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),906,Nov 2024
+2024,Nov,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1180,Nov 2024
+2024,Dec,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),555,Dec 2024
+2024,Dec,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),741,Dec 2024
+2024,Dec,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),894,Dec 2024
+2024,Dec,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1165,Dec 2024
+2025,Jan,20ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),589,Jan 2025
+2025,Jan,40ft container,U.S. West Coast (Los Angeles),Central China (Shanghai),826,Jan 2025
+2025,Jan,20ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),958,Jan 2025
+2025,Jan,40ft container,U.S. Mid West (Chicago via LA-LB),Central China (Shanghai),1238,Jan 2025
