@@ -13,6 +13,11 @@ run/update all the cells in the notebook
 
 run "python -m voila xxxx.ipynb" to render notebook "xxxx" as an HTML page
 
-no work was done to parse the inputs or make API calls
+interface competently corrects user input errors
+
+inputs store in dictionary "parsed_data"
+
+<img width="1507" height="733" alt="image" src="https://github.com/user-attachments/assets/1308229a-34b1-4584-adcc-58ad02dd8b72" />
+
 
 
