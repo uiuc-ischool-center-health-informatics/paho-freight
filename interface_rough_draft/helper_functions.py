@@ -7,7 +7,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in float_64):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         #todo
         case "Country_":
@@ -49,7 +51,9 @@ def parse(value, name):
                     break
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         case "Variant_": 
             '''
@@ -67,7 +71,9 @@ def parse(value, name):
                     break
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         case "Quantity_": 
             '''
@@ -99,7 +105,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         case "Doses_": 
             '''
@@ -115,7 +123,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in object):
                     returnvalue += value[i]
-            return int(returnvalue)
+            if returnvalue:
+                return int(returnvalue)
+            return 0.0
 
         case "Volume_":
             object = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "."]
@@ -123,7 +133,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         case "StorageCondition_": 
             return value
@@ -134,7 +146,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
 
         case "TotalShipmentWeight_": 
             object = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "."]
@@ -142,7 +156,9 @@ def parse(value, name):
             for i in range(len(value)):
                 if (value[i] in object):
                     returnvalue += value[i]
-            return float(returnvalue)
+            if returnvalue:
+                return float(returnvalue)
+            return 0.0
     
     return ""
 
