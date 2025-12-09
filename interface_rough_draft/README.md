@@ -7,11 +7,22 @@ https://ipywidgets.readthedocs.io/en/7.6.3/examples/Widget%20Styling.html
 voila reference:
 https://pypi.org/project/voila/
 
-Used Voila library to render Jupyter Notebook into responsive HTML page
+Voila:
 
-run/update all the cells in the notebook 
+  Used Voila library to render Jupyter Notebook into responsive HTML page
+  
+  run/update all the cells in the notebook 
+  
+  run "python -m voila xxxx.ipynb" to render notebook "xxxx" as an HTML page
 
-run "python -m voila xxxx.ipynb" to render notebook "xxxx" as an HTML page
+Standalone Application:
+
+  cd to directory with front-end notebook
+
+  run jupyter nbconvert --to script [notebook_name].ipynb in terminal
+
+  pyinster --onfile [script_name].py
+
 
 interface competently corrects user input errors
 
