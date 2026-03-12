@@ -16,6 +16,7 @@ PAHOCAT: The  unique product identifier – the last two digits indicate the num
 Quantity: Quantity ordered
 
 ExtendedAmountUSD: Cost of the product in USD
+
 FreightCharges: Cost of the freight
 
 InsuranceCharges: Cost of the insurance
