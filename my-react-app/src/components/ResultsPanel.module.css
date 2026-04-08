@@ -1,0 +1,115 @@
+/* ResultsPanel.module.css */
+
+.panel {
+  position: sticky;
+  top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.section {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.sectionTitle {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #94a3b8;
+  margin: 0 0 1rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.fieldHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.fieldHeader label {
+  font-size: 13px;
+  font-weight: 500;
+  color: #374151;
+}
+
+.badgeApi {
+  font-size: 10px;
+  font-weight: 500;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.badgeComputed {
+  font-size: 10px;
+  font-weight: 500;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.readonlyInput {
+  padding: 8px 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 13px;
+  font-family: inherit;
+  color: #64748b;
+  background: #f8fafc;
+  outline: none;
+  cursor: default;
+}
+
+/* Parsed values list */
+.valueList {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.valueRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px solid #f1f5f9;
+  gap: 8px;
+}
+
+.valueRow:last-child {
+  border-bottom: none;
+}
+
+.valueKey {
+  font-size: 12px;
+  color: #64748b;
+  white-space: nowrap;
+}
+
+.valueVal {
+  font-size: 13px;
+  font-weight: 500;
+  color: #0f172a;
+  text-align: right;
+  word-break: break-all;
+}
+
+.empty {
+  font-size: 13px;
+  color: #cbd5e1;
+  font-style: italic;
+  font-weight: 400;
+}

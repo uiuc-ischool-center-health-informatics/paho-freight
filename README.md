@@ -17,3 +17,8 @@ Spring 2026 Team:
 - Sahana Shetty, @sahanaashetty
 - Xi Wang, @Xi-wang-campus
 - Yuan Zhu, @etteotto
+
+
+cd interface_rough_draft
+cd my-react-app
+npm run dev
