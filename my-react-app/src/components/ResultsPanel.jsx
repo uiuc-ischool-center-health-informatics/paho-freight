@@ -7,14 +7,17 @@
 
 import styles from './ResultsPanel.module.css';
 
-// Fields that come from background API calls or backend computation.
-// Your team will wire these up to actual API calls later.
+// fields that come from background API calls or backend computation.
+// TODO connect these to actual API/pkl file calls later.
 const API_FIELDS = [
   { key: 'AIR',      label: 'AIR index',       source: 'api' },
   { key: 'BDI',      label: 'BDI index',        source: 'api' },
   { key: 'Distance', label: 'Distance (km)',    source: 'computed' },
   { key: 'Openness', label: 'Openness index',   source: 'computed' },
 ];
+
+// TODO add widget for uploading new csv file
+
 
 export default function ResultsPanel({ parsedData }) {
   return (

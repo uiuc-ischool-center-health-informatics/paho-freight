@@ -1,5 +1,5 @@
 // ShipmentForm.jsx
-// This is the main form component. It manages all form state and calls
+// This is the main component. Manages all form state and calls
 // the parse helpers when the user submits.
 
 import { useState } from 'react';
@@ -15,11 +15,11 @@ import ResultsPanel from './ResultsPanel';
 import styles from './ShipmentForm.module.css';
 
 // The fields we render as plain number/text inputs.
-// label     → display label
-// id        → key in form state
-// type      → HTML input type
+// label     -> display label
+// id        -> key in form state
+// type      -> HTML input type
 // placeholder
-// hint      → optional small helper text below the input
+// hint      -> optional small helper text below the input
 const TEXT_FIELDS = [
   { label: 'Destination country',   id: 'country',         type: 'text',   placeholder: 'e.g. Kenya' },
   { label: 'Supplier country',      id: 'supplierCountry', type: 'text',   placeholder: 'e.g. Belgium' },
