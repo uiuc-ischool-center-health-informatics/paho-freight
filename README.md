@@ -17,6 +17,7 @@ Spring 2026 Team:
 - Sahana Shetty, @sahanaashetty
 - Xi Wang, @Xi-wang-campus
 - Yuan Zhu, @etteotto
+- Mruga Gokhale, @mrugagokhale2808
 
 
 cd interface_rough_draft
